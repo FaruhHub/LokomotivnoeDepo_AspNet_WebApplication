@@ -1,0 +1,18 @@
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\ConnectLib\bin\Debug\ConnectLib.dll
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\ConnectLib\bin\Debug\ConnectLib.pdb
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\ConnectLib\obj\Debug\ConnectLib.csprojResolveAssemblyReference.cache
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\ConnectLib\obj\Debug\ConnectLib.dll
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\ConnectLib\obj\Debug\ConnectLib.pdb
+D:\с13Тарусін Артем\JoblessApplication\ConnectLib\bin\Debug\ConnectLib.dll
+D:\с13Тарусін Артем\JoblessApplication\ConnectLib\bin\Debug\ConnectLib.pdb
+D:\с13Тарусін Артем\JoblessApplication\ConnectLib\obj\Debug\ConnectLib.csprojResolveAssemblyReference.cache
+D:\с13Тарусін Артем\JoblessApplication\ConnectLib\obj\Debug\ConnectLib.dll
+D:\с13Тарусін Артем\JoblessApplication\ConnectLib\obj\Debug\ConnectLib.pdb
+D:\Животенко_РГЗ_13\JoblessApplication\ConnectLib\bin\Debug\ConnectLib.dll
+D:\Животенко_РГЗ_13\JoblessApplication\ConnectLib\bin\Debug\ConnectLib.pdb
+D:\Животенко_РГЗ_13\JoblessApplication\ConnectLib\obj\Debug\ConnectLib.dll
+D:\Животенко_РГЗ_13\JoblessApplication\ConnectLib\obj\Debug\ConnectLib.pdb
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\ConnectLib\bin\Debug\ConnectLib.dll
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\ConnectLib\bin\Debug\ConnectLib.pdb
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\ConnectLib\obj\Debug\ConnectLib.dll
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\ConnectLib\obj\Debug\ConnectLib.pdb

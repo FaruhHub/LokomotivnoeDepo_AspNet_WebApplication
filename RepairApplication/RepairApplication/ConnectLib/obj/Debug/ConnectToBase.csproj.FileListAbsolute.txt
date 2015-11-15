@@ -1,0 +1,9 @@
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\ConnectLib\bin\Debug\ConnectLib.dll
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\ConnectLib\bin\Debug\ConnectLib.pdb
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\ConnectLib\obj\Debug\ConnectLib.dll
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\ConnectLib\obj\Debug\ConnectLib.pdb
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\ConnectLib\bin\Debug\ConnectLib.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\ConnectLib\bin\Debug\ConnectLib.pdb
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\ConnectLib\obj\Debug\ConnectToBase.csprojResolveAssemblyReference.cache
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\ConnectLib\obj\Debug\ConnectLib.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\ConnectLib\obj\Debug\ConnectLib.pdb

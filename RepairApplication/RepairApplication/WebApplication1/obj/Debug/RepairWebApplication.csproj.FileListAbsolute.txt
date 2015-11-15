@@ -1,0 +1,77 @@
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\Antlr3.Runtime.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.Core.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\EntityFramework.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\System.Web.Optimization.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\System.Web.Providers.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\WebGrease.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\EntityFramework.xml
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.Core.xml
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\ru\EntityFramework.resources.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\ru\System.Web.Providers.resources.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\ru\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\obj\Debug\RepairWebApplication.csprojResolveAssemblyReference.cache
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\RepairWebApplication.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\RepairWebApplication.pdb
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\obj\Debug\RepairWebApplication.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\obj\Debug\RepairWebApplication.pdb
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\ConnectLib.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\RepairApplication.exe
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\ConnectLib.pdb
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\WebApplication1\bin\RepairApplication.pdb
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\RepairWebApplication.dll.config
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\RepairWebApplication.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\RepairWebApplication.pdb
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\ConnectLib.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.Core.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\EntityFramework.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\RepairApplication.exe
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\WebGrease.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\ConnectLib.pdb
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\RepairApplication.pdb
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\EntityFramework.xml
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\ru\EntityFramework.resources.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\bin\ru\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\obj\Debug\RepairWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\obj\Debug\RepairWebApplication.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\WebApplication1\obj\Debug\RepairWebApplication.pdb

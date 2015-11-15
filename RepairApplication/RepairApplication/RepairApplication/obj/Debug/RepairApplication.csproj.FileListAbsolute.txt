@@ -1,0 +1,59 @@
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\bin\Debug\RepairApplication.exe.config
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\bin\Debug\RepairApplication.exe
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\bin\Debug\RepairApplication.pdb
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\bin\Debug\ConnectLib.dll
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\bin\Debug\ConnectLib.pdb
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\obj\Debug\RepairApplication.csprojResolveAssemblyReference.cache
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\obj\Debug\RepairApplication.Properties.Resources.resources
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\obj\Debug\RepairApplication.csproj.GenerateResource.Cache
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\obj\Debug\RepairApplication.exe
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\obj\Debug\RepairApplication.pdb
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\obj\Debug\RepairApplication.AddPersonForm.resources
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\obj\Debug\RepairApplication.Analytics.resources
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\obj\Debug\RepairApplication.MainForm.resources
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\obj\Debug\RepairApplication.WorkForm.resources
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\bin\Debug\RepairApplication.exe.config
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.exe
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.pdb
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\bin\Debug\RepairApplication.exe
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\bin\Debug\RepairApplication.pdb
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\bin\Debug\ConnectLib.dll
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\bin\Debug\ConnectLib.pdb
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.csprojResolveAssemblyReference.cache
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.Analytics.resources
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.MainForm.resources
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.Properties.Resources.resources
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.csproj.GenerateResource.Cache
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.BrigadaForm.resources
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.Repair.resources
+F:\Desktop\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.AddRepairForm.resources
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\bin\Debug\RepairApplication.exe.config
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.exe
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.pdb
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\bin\Debug\RepairApplication.exe
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\bin\Debug\RepairApplication.pdb
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\bin\Debug\ConnectLib.dll
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\bin\Debug\ConnectLib.pdb
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.csprojResolveAssemblyReference.cache
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.AddRepairForm.resources
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.Analytics.resources
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.MainForm.resources
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.Properties.Resources.resources
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.BrigadaForm.resources
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.Repair.resources
+E:\SYSTEM\Универ\ъработъ\ROIKS\2 var\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.csproj.GenerateResource.Cache
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\bin\Debug\RepairApplication.exe.config
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.exe
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.pdb
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\bin\Debug\RepairApplication.exe
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\bin\Debug\RepairApplication.pdb
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\bin\Debug\ConnectLib.dll
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\bin\Debug\ConnectLib.pdb
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.csprojResolveAssemblyReference.cache
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.AddRepairForm.resources
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.Analytics.resources
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.MainForm.resources
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.Properties.Resources.resources
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.BrigadaForm.resources
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.Repair.resources
+C:\Users\Faruh\Desktop\Маша\Белая_2\RepairApplication\RepairApplication\obj\Debug\RepairApplication.csproj.GenerateResource.Cache

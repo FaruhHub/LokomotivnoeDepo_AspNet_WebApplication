@@ -1,0 +1,55 @@
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.exe.config
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.csprojResolveAssemblyReference.cache
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.Properties.Resources.resources
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.csproj.GenerateResource.Cache
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.exe
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.pdb
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\bin\Debug\ConnectLib.dll
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\bin\Debug\ConnectLib.pdb
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.exe
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.pdb
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.MainForm.resources
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.WorkForm.resources
+E:\РГЗ Гришин\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.AddPersonForm.resources
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.exe.config
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.exe
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.pdb
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\bin\Debug\ConnectLib.dll
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\bin\Debug\ConnectLib.pdb
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.csprojResolveAssemblyReference.cache
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.AddPersonForm.resources
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.MainForm.resources
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.Properties.Resources.resources
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.WorkForm.resources
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.csproj.GenerateResource.Cache
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.exe
+D:\с13Тарусін Артем\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.pdb
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.csprojResolveAssemblyReference.cache
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.AddPersonForm.resources
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.Analytics.resources
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.MainForm.resources
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.Properties.Resources.resources
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.WorkForm.resources
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.csproj.GenerateResource.Cache
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.exe.config
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.exe
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.pdb
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\bin\Debug\ConnectLib.dll
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\bin\Debug\ConnectLib.pdb
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.exe
+D:\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.pdb
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.exe.config
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.exe
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\bin\Debug\JoblessApplication.pdb
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\bin\Debug\ConnectLib.dll
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\bin\Debug\ConnectLib.pdb
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.AddPersonForm.resources
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.Analytics.resources
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.MainForm.resources
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.Properties.Resources.resources
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.WorkForm.resources
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.csproj.GenerateResource.Cache
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.exe
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.pdb
+F:\Desktop\Животенко_РГЗ_13\JoblessApplication\JoblessApplication\obj\Debug\JoblessApplication.csprojResolveAssemblyReference.cache
+F:\Desktop\ROIKS\2 var\Белая_2\JoblessApplication\JoblessApplication\bin\Debug\RepairApplication.exe.config
